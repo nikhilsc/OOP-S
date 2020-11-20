@@ -1,2 +1,4 @@
 # OOP-S
-Four oop's pillar in one example Encapsulation, Abstraction, Inheritance, Polymorphism
+Four pillars of oops in java exampl.
+
+Encapsulation, Abstraction, Inheritance, Polymorphism
